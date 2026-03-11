@@ -4,6 +4,9 @@ A simple iOS tip calculator app built with Swift, SwiftUI, and Xcode. Enter a bi
 
 ---
 
+![First_App_Demo](https://github.com/user-attachments/assets/d4eba170-c7f0-4d1d-9970-72aebe06faf3)
+
+
 ## How This Was Built (A VibeCode AI Experiment)
 
 This was a small personal project to try out **AI-assisted app development** — sometimes called "vibe coding."
