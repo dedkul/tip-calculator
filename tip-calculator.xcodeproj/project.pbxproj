@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		5488162D2F5C53F100AA1BF9 /* first-app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "first-app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5488162D2F5C53F100AA1BF9 /* tip-calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "tip-calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5488162F2F5C53F100AA1BF9 /* first-app */ = {
+		5488162F2F5C53F100AA1BF9 /* tip-calculator */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "first-app";
+			path = "tip-calculator";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		548816242F5C53F100AA1BF9 = {
 			isa = PBXGroup;
 			children = (
-				5488162F2F5C53F100AA1BF9 /* first-app */,
+				5488162F2F5C53F100AA1BF9 /* tip-calculator */,
 				5488162E2F5C53F100AA1BF9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		5488162E2F5C53F100AA1BF9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5488162D2F5C53F100AA1BF9 /* first-app.app */,
+				5488162D2F5C53F100AA1BF9 /* tip-calculator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5488162C2F5C53F100AA1BF9 /* first-app */ = {
+		5488162C2F5C53F100AA1BF9 /* tip-calculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 548816382F5C53F200AA1BF9 /* Build configuration list for PBXNativeTarget "first-app" */;
+			buildConfigurationList = 548816382F5C53F200AA1BF9 /* Build configuration list for PBXNativeTarget "tip-calculator" */;
 			buildPhases = (
 				548816292F5C53F100AA1BF9 /* Sources */,
 				5488162A2F5C53F100AA1BF9 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5488162F2F5C53F100AA1BF9 /* first-app */,
+				5488162F2F5C53F100AA1BF9 /* tip-calculator */,
 			);
-			name = "first-app";
+			name = "tip-calculator";
 			packageProductDependencies = (
 			);
 			productName = "first-app";
-			productReference = 5488162D2F5C53F100AA1BF9 /* first-app.app */;
+			productReference = 5488162D2F5C53F100AA1BF9 /* tip-calculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 548816282F5C53F100AA1BF9 /* Build configuration list for PBXProject "first-app" */;
+			buildConfigurationList = 548816282F5C53F100AA1BF9 /* Build configuration list for PBXProject "tip-calculator" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5488162C2F5C53F100AA1BF9 /* first-app */,
+				5488162C2F5C53F100AA1BF9 /* tip-calculator */,
 			);
 		};
 /* End PBXProject section */
@@ -309,7 +309,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		548816282F5C53F100AA1BF9 /* Build configuration list for PBXProject "first-app" */ = {
+		548816282F5C53F100AA1BF9 /* Build configuration list for PBXProject "tip-calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				548816362F5C53F200AA1BF9 /* Debug */,
@@ -318,7 +318,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		548816382F5C53F200AA1BF9 /* Build configuration list for PBXNativeTarget "first-app" */ = {
+		548816382F5C53F200AA1BF9 /* Build configuration list for PBXNativeTarget "tip-calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				548816392F5C53F200AA1BF9 /* Debug */,

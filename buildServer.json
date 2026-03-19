@@ -12,8 +12,8 @@
 	"argv": [
 		"/opt/homebrew/bin/xcode-build-server"
 	],
-	"workspace": "/Users/ashu/Warehouse 2/xcode/first_app/first-app/first-app.xcodeproj/project.xcworkspace",
-	"build_root": "/Users/ashu/Library/Developer/Xcode/DerivedData/first-app-eqhldumnzkojgugcggiujbebcfmi",
-	"scheme": "first-app",
+	"workspace": "/Users/ashu/Warehouse 2/xcode/first_app/first-app/tip-calculator.xcodeproj/project.xcworkspace",
+	"build_root": "/Users/ashu/Library/Developer/Xcode/DerivedData/tip-calculator-czcugjovigvlpwgsnscgxrekfwse",
+	"scheme": "tip-calculator",
 	"kind": "xcode"
 }
